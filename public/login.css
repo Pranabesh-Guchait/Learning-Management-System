@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+body{
+    background-color: aliceblue;
+}
+.box{
+    padding-top: 1px;
+    margin-top: 3%;
+    margin-left: 35%;
+    width: 30%;
+    height: 87vh;
+    background-color: rgb(253, 253, 253);
+    box-shadow: 20px 20px rgba(75, 75, 75, 0.205);
+    text-align: center;
+    font-family: 'Hubballi', cursive;
+}
+#login{
+    font-size: 45px;
+    color: rgb(88, 88, 88);
+}
+#username{
+    font-size: 20px;
+    color: rgb(88, 88, 88);
+}
+#email{
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(88, 88, 88);
+    font-size: 25px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+#pass{
+    font-size: 20px;
+    color: rgb(88, 88, 88);
+}
+#password{
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+    color: rgb(88, 88, 88);
+    font-size: 25px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+#tick{
+    font-size: 20px;
+    color: rgb(88, 88, 88);
+}
+#log{
+    margin-top: 15px;
+    width: 40%;
+    height: 40px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    cursor: pointer;
+    padding-left: 20px;
+    background-color: rgb(58, 58, 58);
+}
+#lost{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(88, 88, 88);
+}
+#sign{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(88, 88, 88);
+}
+#logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 88px;
+    color: rgb(57, 57, 57);
+}

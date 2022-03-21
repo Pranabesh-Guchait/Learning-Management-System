@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+body{
+    background-color: aliceblue;
+}
+.box{
+    padding-top: 1px;
+    margin-top: 3%;
+    margin-left: 35%;
+    width: 30%;
+    height: 87vh;
+    background-color: rgb(51, 50, 50);
+    box-shadow: 20px 20px rgba(27, 27, 27, 0.336);
+    text-align: center;
+    font-family: 'Hubballi', cursive;
+}
+#register{
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+#username{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#name{
+    width: 70%;
+    height: 20px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+#emailh{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#emailin{
+    width: 70%;
+    height: 20px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+#pass{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.password{
+    width: 70%;
+    height: 20px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding-left: 20px;
+    background-color: aliceblue;
+}
+#reg{
+    width: 30%;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: #036d44;
+}
+#reg:hover{
+    background-color: #059e63;
+}
+#reg:active{
+    background-color: #059e63;
+    font-size: 16px;
+}
